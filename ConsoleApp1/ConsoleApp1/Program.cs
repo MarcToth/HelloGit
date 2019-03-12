@@ -11,6 +11,8 @@ namespace ConsoleApp1
 
             WriteLine("yes, I'm pretty sure..");
             WriteLine("or not??");
+
+            WriteLine("ok, now I'm starting manipulating via Visual Studuio 2017...");
             ReadKey();
         }
     }
