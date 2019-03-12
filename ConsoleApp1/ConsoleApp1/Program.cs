@@ -10,6 +10,7 @@ namespace ConsoleApp1
             WriteLine("wondering if this is a good idea.....");
 
             WriteLine("yes, I'm pretty sure..");
+            WriteLine("or not??");
             ReadKey();
         }
     }
