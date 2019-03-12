@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             WriteLine("Hello Git!");
             WriteLine("wondering if this is a good idea.....");
+
+            WriteLine("yes, I'm pretty sure..");
             ReadKey();
         }
     }
